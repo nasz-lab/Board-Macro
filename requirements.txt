@@ -1,0 +1,7 @@
+shiny
+requests
+beautifulsoup4
+pandas
+matplotlib
+plotly
+shinywidgets
